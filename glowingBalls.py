@@ -5,6 +5,8 @@ import random
 def onAppStart(app):
     resetGlow(app)
 
+# GIT TEST
+
 def resetGlow(app):
     app.width = 1000
     app.height = 800
